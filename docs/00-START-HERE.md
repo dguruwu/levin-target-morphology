@@ -36,7 +36,14 @@ one open question in his own words (Bessonov & Levin 2015):
    effect on the stored target. Experiment design in issue #2.
 4. **Memory = negentropy** (I = N): stored counterfactual as accumulated negentropy.
 
-## How to read the rest of docs/
+## Contents (the meal, plated)
+
+- [Start here](docs/00-START-HERE.md) — the open question, the receipts, the constructions.
+- [Receipts and sources](docs/receipts-and-sources.md) — five papers, verbatim quotes, PubMed/arXiv links.
+- [Levin receipts walk-back](docs/levin-receipts-2026-10-28.md) — the claim-by-claim pricing, including one of our own claims caught and corrected publicly.
+- [Provenance note](docs/provenance-note.md) — the lineage in three paragraphs.
+
+## Older drafts (kept in git history only)
 
 - `levin-receipts-2026-10-28.md` — the fetched receipts and a line-by-line pricing of our
   own claims (including one of our claims caught and corrected publicly).
